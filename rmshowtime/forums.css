@@ -1,0 +1,18 @@
+/* Hoja de Estilos para el modulo de foros */
+table.frmCategos{
+	border: 0px;
+	padding: 0px;
+}
+table.frmCategos td.frmHead{
+	font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-transform: uppercase;
+	color: #000000;
+	text-align: left;
+}
+table.frmCategos td.frmHead a{
+	color: #000000;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+td.frmSep{ height: 1px; background-color: #000000; }
